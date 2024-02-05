@@ -1,5 +1,26 @@
 div{
-      background-color: rgb(243, 6, 6);
+      background-color: rgb(120, 223, 79);
       padding: 20px;
       margin: 10px;
+}
+
+.gitpush{
+      background-color: aquamarine;
+      
+}
+
+.gitpush h3{
+      font-size: 35px;
+      margin: 0;
+}
+
+.gitpush ol{
+      
+      margin: 0;
+}
+.gitpush li{
+      
+      font-size: 20px;
+      font-style: italic;
+      font-weight: 800;
 }
